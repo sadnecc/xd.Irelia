@@ -57,16 +57,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EnsoulSharp.SDK">
-      <HintPath>C:\Users\Can\Desktop\soul\EnsoulSharp\System\EnsoulSharp.SDK.dll</HintPath>
+      <HintPath>C:\Users\Can\Desktop\ensoul\EnsoulSharp\System\EnsoulSharp.SDK.dll</HintPath>
     </Reference>
     <Reference Include="EnsoulSharp.Wrapper">
-      <HintPath>C:\Users\Can\Desktop\soul\EnsoulSharp\System\EnsoulSharp.Wrapper.dll</HintPath>
+      <HintPath>C:\Users\Can\Desktop\ensoul\EnsoulSharp\System\EnsoulSharp.Wrapper.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX">
-      <HintPath>C:\Users\Can\Desktop\soul\EnsoulSharp\System\SharpDX.dll</HintPath>
+      <HintPath>C:\Users\Can\Desktop\ensoul\EnsoulSharp\System\SharpDX.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.Direct3D9">
-      <HintPath>C:\Users\Can\Desktop\soul\EnsoulSharp\System\SharpDX.Direct3D9.dll</HintPath>
+      <HintPath>C:\Users\Can\Desktop\ensoul\EnsoulSharp\System\SharpDX.Direct3D9.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
